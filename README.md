@@ -3,6 +3,7 @@
 Project name: Analyzing traffic accidents
 
 Project members:
-Giorgos Zacharos
-Despoina Stathopoulou
-Nikoletta Rokidou
+Giorgos Zacharos,
+Despoina Stathopoulou,
+Nikoletta Rokidou,
+Konstantinos Katsougiannis
